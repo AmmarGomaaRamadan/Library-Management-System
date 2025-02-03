@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<Book>
+@foreach(var b in Model)
+{
+     <div>
+        <h3 style="display:inline">The book title is :</h3>
+        <h5 style="display:inline">@b.Title</h5>
+    </div>
+    <div>
+        <h3 style="display:inline">The book Author is :</h3>
+        <h5 style="display:inline">@b.Author?.Name</h5>
+    </div>
+    <div>
+        <h3 style="display:inline">The book published at :</h3>
+        <h5 style="display:inline">@b.PublishYear</h5>
+    </div>
+    <div style="height:400px;width:300px;background:url(@Url.Content($"~{Settings.BookCoverPath}/{b.BookImages?.FirstOrDefault()?.Path}"))"></div>
+    
+
+    <hr />
+}
+   
