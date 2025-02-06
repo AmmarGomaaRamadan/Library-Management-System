@@ -1,7 +1,64 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Library Management System\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\services\\books\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:services\\books\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\reposatories\\books\\bookreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:reposatories\\books\\bookreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\reposatories\\genericreposatory\\reposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:reposatories\\genericreposatory\\reposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\Library Management System\\Migrations\\20250206004635_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250206004635_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\models\\users\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:models\\users\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\viewmodels\\userviewmodels\\singnupvuewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:viewmodels\\userviewmodels\\singnupvuewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|c:\\users\\dell\\source\\repos\\library management system\\models\\users\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDBAFB2-0462-47AD-8F35-FC62D6B4F117}|Library Management System.csproj|solutionrelative:models\\users\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +66,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Services\\Books\\BookServices.cs",
+              "RelativeDocumentMoniker": "Services\\Books\\BookServices.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Services\\Books\\BookServices.cs",
+              "RelativeToolTip": "Services\\Books\\BookServices.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:18:13.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookReposatory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Reposatories\\Books\\BookReposatory.cs",
+              "RelativeDocumentMoniker": "Reposatories\\Books\\BookReposatory.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Reposatories\\Books\\BookReposatory.cs",
+              "RelativeToolTip": "Reposatories\\Books\\BookReposatory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:17:32.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reposatory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Reposatories\\GenericReposatory\\Reposatory.cs",
+              "RelativeDocumentMoniker": "Reposatories\\GenericReposatory\\Reposatory.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Reposatories\\GenericReposatory\\Reposatory.cs",
+              "RelativeToolTip": "Reposatories\\GenericReposatory\\Reposatory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:17:16.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABoAAABAMzMzMzMrwCoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-06T01:10:04.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T01:06:41.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:05:38.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T01:01:57.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T01:00:04.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250206004635_edituser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Migrations\\20250206004635_edituser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250206004635_edituser.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Migrations\\20250206004635_edituser.cs",
+              "RelativeToolTip": "Migrations\\20250206004635_edituser.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:46:36.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Views\\User\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Views\\User\\SignUp.cshtml",
+              "RelativeToolTip": "Views\\User\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T00:20:56.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Models\\Users\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\Users\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Models\\Users\\AppUserConfiguration.cs",
+              "RelativeToolTip": "Models\\Users\\AppUserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:19:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Models\\Users\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\Users\\AppUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Models\\Users\\AppUser.cs",
+              "RelativeToolTip": "Models\\Users\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:15:04.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SingnUpVuewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\ViewModels\\UserViewModels\\SingnUpVuewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserViewModels\\SingnUpVuewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\ViewModels\\UserViewModels\\SingnUpVuewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserViewModels\\SingnUpVuewModel.cs",
+              "ViewState": "AgIAAAYAAACAZmZmZmYSwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:47:04.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Library Management System\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACgAAACA//////8HwDIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:36:38.606Z",
+              "EditorCaption": ""
             }
           ]
         }

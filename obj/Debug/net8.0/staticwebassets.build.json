@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WwOau9SYoTSITbCAiFhcQkKEoaGPJkPNvhk54X+HDq8=",
+  "Hash": "+kQT0jxSfx/8L7ilviyCw6XN3nbk1VOr1qgTAHcizN8=",
   "Source": "Library Management System",
   "BasePath": "_content/Library Management System",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\BookImages\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\Library Management System\\wwwroot\\Images\\Login Image\\Login.jpg",
+      "SourceId": "Library Management System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\Library Management System\\wwwroot\\",
+      "BasePath": "_content/Library Management System",
+      "RelativePath": "Images/Login Image/Login.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Login Image\\Login.jpg"
     },
     {
       "Identity": "C:\\Users\\DELL\\source\\repos\\Library Management System\\wwwroot\\js\\site.js",

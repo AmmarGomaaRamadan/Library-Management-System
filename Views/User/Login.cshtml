@@ -1,1 +1,24 @@
-﻿<h1>Login Page</h1>
+﻿@using Library_Management_System.ViewModels.UserViewModels
+@model LoginViewModel
+
+<div class="row" style="background:url('~/Login Image/Login.jpg')">
+    <h1>Login Page</h1>
+    <div class="col-md-3" style="background-color:transparent"></div>
+    <div class="col-md-6">
+        <form  method="post"  asp-controller="User" asp-action="Login">
+            <div >
+                <label class="form-label" asp-for="userName"></label>
+                <input type="text" asp-for="userName" class="form-control" />
+                <span asp-validation-for="userName" class="text-danger"></span>
+            </div>
+            <div>
+                <label class="form-label" asp-for="password"></label>
+                <input type="password" asp-for="password" class="form-control" />
+                <span asp-validation-for="password" class="text-danger"></span>
+            </div>
+            <input type="submit" value="LogIn" class="btn btn-primary" />
+            </form>
+    </div>
+    <div class="col-md-3" style="background-color:transparent"></div>
+
+</div>

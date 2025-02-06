@@ -6,8 +6,8 @@ namespace Library_Management_System.Models.Users
     {
         public void Configure(EntityTypeBuilder<AppUser> builder)
         {
-            builder.Property(u => u.qualifaction).IsRequired(false);
-            builder.Property(u => u.personalImagePath).IsRequired(false);
+            builder.Property(u => u.qualifaction).IsRequired(false).HasDefaultValue(null);
+            builder.Property(u => u.personalImagePath).IsRequired(false).HasDefaultValue(null);
         }
     }
 }

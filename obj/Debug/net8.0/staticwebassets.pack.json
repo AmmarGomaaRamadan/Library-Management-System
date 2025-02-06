@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Images\\BookImages\\2.jpg"
     },
     {
+      "Id": "C:\\Users\\DELL\\source\\repos\\Library Management System\\wwwroot\\Images\\Login Image\\Login.jpg",
+      "PackagePath": "staticwebassets\\Images\\Login Image\\Login.jpg"
+    },
+    {
       "Id": "C:\\Users\\DELL\\source\\repos\\Library Management System\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

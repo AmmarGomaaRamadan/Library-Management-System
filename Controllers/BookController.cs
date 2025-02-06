@@ -16,5 +16,10 @@ namespace Library_Management_System.Controllers
             var data=_bookService.GetBooks();
             return View(data);
         }
+        public IActionResult Details(int id)
+        {
+            var data = _bookService.GetBook(id);
+            return View(data);
+        }
     }
 }

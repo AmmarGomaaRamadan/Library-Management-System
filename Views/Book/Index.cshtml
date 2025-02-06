@@ -1,11 +1,24 @@
 ﻿@model IEnumerable<Book>
+@{
+    ViewData["Title"] = "Book|Get All";
+}
 
 <h1>Books</h1>
-@foreach(var b in Model)
-{
-    <h3>@b.Title</h3>
-    <h3>@b.PublishYear</h3>
-    <h3>@b.Edition</h3>
-    <hr />
+<div class="row">
+    @foreach(Book b in Model)
+    {
+        <div class="col-md-4">
+            <div class="card" style="width: 18rem;">
+                <img src="@(Url.Content($"~{Settings.BookCoverPath}/{b.BookImages?.FirstOrDefault()?.Path}"))" class="card-img-top" alt="Cover">
+                <div class="card-body">
+                    <h5 class="card-title">@b.Title</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@b.Category.Name</h6>
+                    @* //<p class="card-text">@b.</p> *@
+                    <a asp-controller="Book" asp-action="Details" asp-route-id="@b.Id" class="btn mr-2"><i class="fas fa-link"></i> Details</a>
+                    <a href="#" class="btn "><i class="fab fa-github"></i> Like</a>
+                </div>
+            </div>
+        </div>
+    }
 
-}
+</div>

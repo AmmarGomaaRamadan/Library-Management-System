@@ -24,7 +24,7 @@ namespace Library_Management_System.Services.Books
 
         public Book GetBook(int id)
         {
-            throw new NotImplementedException();
+            return _reposatory.GetOne(id);
         }
 
         public IEnumerable<Book> GetBooks()

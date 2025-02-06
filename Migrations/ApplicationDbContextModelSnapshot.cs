@@ -163,7 +163,6 @@ namespace Library_Management_System.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("status")
-                        .IsRequired()
                         .ValueGeneratedOnAdd()
                         .HasColumnType("nvarchar(max)")
                         .HasDefaultValue("Start Reading");
@@ -246,11 +245,9 @@ namespace Library_Management_System.Migrations
                         .HasColumnType("nvarchar(256)");
 
                     b.Property<string>("personalImagePath")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("qualifaction")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

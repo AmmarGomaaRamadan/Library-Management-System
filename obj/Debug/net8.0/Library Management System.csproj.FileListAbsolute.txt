@@ -139,3 +139,4 @@ C:\Users\DELL\source\repos\Library Management System\obj\Debug\net8.0\Library .F
 C:\Users\DELL\source\repos\Library Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\DELL\source\repos\Library Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\DELL\source\repos\Library Management System\obj\Debug\net8.0\Library Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\Library Management System\obj\Debug\net8.0\Library Management System.sourcelink.json

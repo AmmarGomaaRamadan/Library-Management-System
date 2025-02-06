@@ -9,8 +9,8 @@ namespace Library_Management_System.Models.Users
        
         public string qualifaction {  get; set; }
 
-        public virtual ICollection<UserBook>? UserBooks { get; set; }
-        public virtual ICollection<UserPreferedBook>? UserPreferedBooks { get; set; }
+        public virtual ICollection<UserBook> UserBooks { get; set; }
+        public virtual ICollection<UserPreferedBook> UserPreferedBooks { get; set; }
 
 
         public string personalImagePath {  get; set; }
